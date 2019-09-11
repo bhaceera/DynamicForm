@@ -8,7 +8,7 @@ body{
 h1{
 	font-style: italic;
 	font-family: cursive;
-	color: white;
+	color: black;
 	font-size: 50px;
 }
 #dsex, #dage, #demail,#dskin, #dloc, #dnum, #dexp, #dabout,#dstat{
@@ -17,7 +17,7 @@ h1{
 h3{
 	font-family: cursive;
 	font-style: italic;
-	color: white;
+	color: black;
 	font-size: 20px;
 }
 input{
@@ -29,7 +29,7 @@ input{
 p{
 	font-family: cursive;
 	font-style: italic;
-	color: white;
+	color: black;
 	font-size: 20px;
 }
 
